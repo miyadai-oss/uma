@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmamusumeMultiwindowAdjuster", "UmamusumeMultiwindowAdjuster\UmamusumeMultiwindowAdjuster.csproj", "{470B23F1-2EDB-445D-97BD-AF93C4DAEBFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470B23F1-2EDB-445D-97BD-AF93C4DAEBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470B23F1-2EDB-445D-97BD-AF93C4DAEBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470B23F1-2EDB-445D-97BD-AF93C4DAEBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470B23F1-2EDB-445D-97BD-AF93C4DAEBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43EA28D7-FA7F-46F9-9465-F660B6C9ABB5}
+	EndGlobalSection
+EndGlobal
